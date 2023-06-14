@@ -1,0 +1,2 @@
+DELETE FROM Task
+WHERE created_at < NOW() - INTERVAL '1 YEAR';

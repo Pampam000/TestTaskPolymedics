@@ -1,0 +1,1 @@
+INSERT INTO Semester (start_date) VALUES ('2023-09-01');
